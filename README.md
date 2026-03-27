@@ -54,8 +54,9 @@ I'm passionate about creating real-world solutions with Python — not just writ
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=closecodex&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=closecodex&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=closecodex&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=closecodex&theme=tokyonight" alt="Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=closecodex&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
