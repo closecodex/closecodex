@@ -38,7 +38,6 @@ I'm passionate about creating real-world solutions with Python — not just writ
   <img src="https://img.shields.io/badge/Unit Testing-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Logging-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 </p>
 
 ---
