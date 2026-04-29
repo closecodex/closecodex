@@ -1,15 +1,16 @@
-# 👋 Hi there, I'm a Python Developer!
+# 👋 Hi there, I'm a Python Developer interested in QA Automation!
 
-I'm passionate about creating real-world solutions with Python — not just writing code, but delivering value. I thrive in team environments where diverse perspectives come together to build something meaningful.
+I'm passionate about creating real-world solutions with Python — not just writing code, but delivering value. I’m interested in backend development, REST APIs, automation, and software quality, where programming and testing practices work together to build reliable products. I thrive in team environments where diverse perspectives come together to build something meaningful.
 
 ---
 
 ## 🧠 About Me
 
 - 💻 Python enthusiast — I chose Python for its readability, versatility, and power in backend development, automation, data analysis, and machine learning.
+- 🧪 Quality-minded developer — I pay attention to clean code, testing, debugging, documentation, and user scenarios.
 - 🔄 Always learning — through courses (Stepik, Netology, edX/Harvard, Yandex Practicum), tech blogs (like Habr), YouTube channels (e.g., egoroff_channel), and open-source GitHub projects.
 - 🤝 Team-oriented — I enjoy Agile workflows, Git collaboration, and building solutions together.
-- 🎯 Currently diving deeper into backend development: REST APIs, PostgreSQL, Docker, CI/CD, testing, logging, and advanced SQL.
+- 🎯 Currently diving deeper into backend developmentand software quality: REST APIs, PostgreSQL, Docker, CI/CD, pytest, Postman, test documentation, logging, and advanced SQL.
 
 ---
 
@@ -36,6 +37,8 @@ I'm passionate about creating real-world solutions with Python — not just writ
   <img src="https://img.shields.io/badge/CI/CD-blue?style=for-the-badge&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unit Testing-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Logging-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 </p>
 
 ---
@@ -47,6 +50,9 @@ I'm passionate about creating real-world solutions with Python — not just writ
 - Integrated CI/CD pipelines with Docker and GitHub Actions
 - Used PostgreSQL and MySQL for robust database solutions
 - Applied unit testing and logging for production-ready apps
+- Practiced API testing with Postman
+- Created test cases, checklists, and bug reports as part of QA training
+- Studied automated testing basics with Python and pytest
 - Worked in Agile teams using Git, Notion, and code reviews
 
 ---
